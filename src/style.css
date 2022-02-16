@@ -1,0 +1,73 @@
+hr {
+  margin: 0 auto;
+}
+ul {
+  list-style-type: none;
+  margin-left: -30px;
+}
+
+li {
+  font-size: small;
+}
+
+.container-fluid {
+  max-width: 550px;
+  display: block;
+  margin: 0 auto;
+  margin-top: 100px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #fff;
+  border-radius: 15px;
+  box-shadow: rgb(182 180 179 / 75%) 0px 0px 11px 3px;
+}
+
+.card-title {
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 29px;
+  font-weight: 300;
+}
+
+.search-bar {
+  background: #fff;
+  padding: 2px;
+  border: 1px solid #ced4da;
+  border-radius: 5px;
+  width: 70%;
+}
+
+.search-icon {
+  border-style: none;
+  background-color: #fff;
+}
+
+.current-condition {
+  font-size: 18px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.current-temperature {
+  font-size: 80px;
+  text-align: right;
+}
+
+.current-weather-emoji {
+  display: block;
+  margin: 0 auto;
+}
+
+.weekly-weather {
+  text-align: center;
+}
+
+.weather-emoji {
+  display: block;
+  margin: 0 auto;
+  width: 50%;
+}
+
+#short-hr {
+  width: 75%;
+}
